@@ -36,5 +36,5 @@ toml==0.10.2
 pathlib2==2.3.6
 
 #Project specific pacakges
-python-dotenv==1.0.1
+python-dotenv==1.2.4
 ncl_sqlsnippets==1.3.0
